@@ -23,5 +23,5 @@
 
 * Remember, that a binomial distribution approximates a normal distribution with mean Np and standard deviation sqrt(Np(1-p)). Generate an array of size 10,000 by picking values from a random normal distribution with the appropriate mean and standard deviation and plot a second histogram. 
 
-  ![part3.png](Images/part3.png)
+  ![part3.png](images/part3.png)
 
