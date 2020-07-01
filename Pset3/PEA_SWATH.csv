@@ -1,0 +1,338 @@
+,KEGG_Map,Pathway Name,pvalue
+258,map00120,Primary bile acid biosynthesis,0.0012277431942403604
+118,map00310,Lysine degradation,0.002450419415903091
+10,map01100,Metabolic pathways,0.003564390017179407
+115,map00604,Glycosphingolipid biosynthesis - ganglio series,0.0036071774528353318
+288,map00511,Other glycan degradation,0.010397158540511311
+157,map04146,Peroxisome,0.013716529194049754
+27,map03320,PPAR signaling pathway,0.016995108340832392
+98,map01210,2-Oxocarboxylic acid metabolism,0.01869391884480035
+278,map00531,Glycosaminoglycan degradation,0.019982487729783213
+111,map04723,Retrograde endocannabinoid signaling,0.026635200142997917
+245,map00340,Histidine metabolism,0.03140837131837898
+108,map00380,Tryptophan metabolism,0.05194760202753767
+201,map00630,Glyoxylate and dicarboxylate metabolism,0.05910123697405557
+153,map04142,Lysosome,0.07822104299999803
+164,map00500,Starch and sucrose metabolism,0.07966817160789878
+226,map00240,Pyrimidine metabolism,0.09852429894777717
+313,map00620,Pyruvate metabolism,0.10233053261571108
+218,map04141,Protein processing in endoplasmic reticulum,0.10884041330113027
+116,map00230,Purine metabolism,0.11537360660036126
+67,map00430,Taurine and hypotaurine metabolism,0.11733936067158746
+280,map00740,Riboflavin metabolism,0.11733936067158746
+62,map00600,Sphingolipid metabolism,0.11733936067158746
+329,map00232,Caffeine metabolism,0.11733936067158746
+124,map00603,Glycosphingolipid biosynthesis - globo and isoglobo series,0.11733936067158746
+7,map00561,Glycerolipid metabolism,0.11848189397368009
+237,map05230,Central carbon metabolism in cancer,0.11848189397368009
+195,map04932,Non-alcoholic fatty liver disease (NAFLD),0.12009390173572873
+106,map00053,Ascorbate and aldarate metabolism,0.13934335492979313
+20,map04216,Ferroptosis,0.16093035165196154
+147,map05200,Pathways in cancer,0.16299281368916554
+222,map00100,Steroid biosynthesis,0.17081046173709316
+85,map00591,Linoleic acid metabolism,0.17081046173709316
+233,map05322,Systemic lupus erythematosus,0.18308227098765248
+287,map04066,HIF-1 signaling pathway,0.18308227098765248
+253,map04931,Insulin resistance,0.18308227098765248
+213,map04976,Bile secretion,0.20565477567134763
+265,map00010,Glycolysis / Gluconeogenesis,0.2206291241158739
+290,map04978,Mineral absorption,0.22108645307297606
+159,map04640,Hematopoietic cell lineage,0.22108645307297606
+78,map00330,Arginine and proline metabolism,0.22851846890057576
+165,map04610,Complement and coagulation cascades,0.22851846890057576
+261,map04922,Glucagon signaling pathway,0.2515576573648328
+19,map03050,Proteasome,0.2523214070141905
+200,map00190,Oxidative phosphorylation,0.26779387916702113
+321,map04110,Cell cycle,0.2683556129127946
+210,map04973,Carbohydrate digestion and absorption,0.2683556129127946
+250,map00280,"Valine, leucine and isoleucine degradation",0.2702582559990762
+133,map00270,Cysteine and methionine metabolism,0.27466920594654487
+323,map04714,Thermogenesis,0.2772819040536752
+203,map00513,Various types of N-glycan biosynthesis,0.31279528079069846
+307,map00770,Pantothenate and CoA biosynthesis,0.31279528079069846
+206,map03018,RNA degradation,0.31279528079069846
+4,map00410,beta-Alanine metabolism,0.32075335367035473
+286,map04520,Adherens junction,0.3545724839849019
+139,map05146,Amoebiasis,0.3545724839849019
+326,map04151,PI3K-Akt signaling pathway,0.36615865856763213
+186,map05203,Viral carcinogenesis,0.38845461698921113
+167,map03013,RNA transport,0.3926450281143209
+140,map05206,MicroRNAs in cancer,0.3938445286100523
+75,map04114,Oocyte meiosis,0.3938445286100523
+301,map01040,Biosynthesis of unsaturated fatty acids,0.3938445286100523
+145,map05150,Staphylococcus aureus infection,0.3938445286100523
+15,map00760,Nicotinate and nicotinamide metabolism,0.3938445286100523
+55,map01212,Fatty acid metabolism,0.39521713933317115
+88,map05132,Salmonella infection,0.40770325686812914
+66,map05017,Spinocerebellar ataxia,0.40770325686812914
+240,map00590,Arachidonic acid metabolism,0.43075955731754095
+242,map04390,Hippo signaling pathway,0.43075955731754095
+40,map00052,Galactose metabolism,0.43075955731754095
+188,map05161,Hepatitis B,0.43075955731754095
+317,map00670,One carbon pool by folate,0.43075955731754095
+248,map03010,Ribosome,0.5085864963622895
+90,map05160,Hepatitis C,0.5287173653269223
+211,map00860,Porphyrin and chlorophyll metabolism,0.5287173653269223
+30,map05152,Tuberculosis,0.5287173653269223
+306,map04670,Leukocyte transendothelial migration,0.5287173653269223
+87,map04979,Cholesterol metabolism,0.5575202898549968
+146,map00520,Amino sugar and nucleotide sugar metabolism,0.5575202898549968
+297,map01200,Carbon metabolism,0.5841890532096019
+302,map04910,Insulin signaling pathway,0.5845868678696055
+114,map04210,Apoptosis,0.5845868678696055
+330,map03040,Spliceosome,0.5845868678696055
+155,map00830,Retinol metabolism,0.5845868678696055
+3,map04918,Thyroid hormone synthesis,0.5845868678696055
+334,map00140,Steroid hormone biosynthesis,0.5845868678696055
+259,map05225,Hepatocellular carcinoma,0.6176398212547961
+31,map05165,Human papillomavirus infection,0.6234704637045242
+231,map05418,Fluid shear stress and atherosclerosis,0.6386430940399759
+150,map05130,Pathogenic Escherichia coli infection,0.6386430940399759
+71,map00640,Propanoate metabolism,0.6522676905353814
+296,map05010,Alzheimer disease,0.6553678531368925
+96,map01230,Biosynthesis of amino acids,0.6598299083969403
+174,map00020,Citrate cycle (TCA cycle),0.6598299083969403
+324,map00982,Drug metabolism - cytochrome P450,0.6932457147826047
+284,map00071,Fatty acid degradation,0.6932457147826047
+208,map00601,Glycosphingolipid biosynthesis - lacto and neolacto series,1.0
+220,map00562,Inositol phosphate metabolism,1.0
+239,map04924,Renin secretion,1.0
+238,map04070,Phosphatidylinositol signaling system,1.0
+217,map05231,Choline metabolism in cancer,1.0
+216,map05168,Herpes simplex virus 1 infection,1.0
+236,map04152,AMPK signaling pathway,1.0
+196,map04144,Endocytosis,1.0
+221,map04727,GABAergic synapse,1.0
+215,map00592,alpha-Linolenic acid metabolism,1.0
+197,map04072,Phospholipase D signaling pathway,1.0
+214,map05310,Asthma,1.0
+235,map04512,ECM-receptor interaction,1.0
+198,map04977,Vitamin digestion and absorption,1.0
+223,map04920,Adipocytokine signaling pathway,1.0
+199,map05142,Chagas disease (American trypanosomiasis),1.0
+234,map04330,Notch signaling pathway,1.0
+202,map00910,Nitrogen metabolism,1.0
+224,map03450,Non-homologous end-joining,1.0
+204,map00750,Vitamin B6 metabolism,1.0
+205,map04150,mTOR signaling pathway,1.0
+232,map05214,Glioma,1.0
+225,map00290,"Valine, leucine and isoleucine biosynthesis",1.0
+230,map05210,Colorectal cancer,1.0
+212,map04975,Fat digestion and absorption,1.0
+227,map00440,Phosphonate and phosphinate metabolism,1.0
+209,map04540,Gap junction,1.0
+207,map05213,Endometrial cancer,1.0
+228,map04022,cGMP-PKG signaling pathway,1.0
+219,map04370,VEGF signaling pathway,1.0
+229,map04934,Cushing syndrome,1.0
+0,map05164,Influenza A,1.0
+262,map05170,Human immunodeficiency virus 1 infection,1.0
+243,map05135,Yersinia infection,1.0
+292,map04120,Ubiquitin mediated proteolysis,1.0
+293,map00785,Lipoic acid metabolism,1.0
+294,map00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis,1.0
+295,map05340,Primary immunodeficiency,1.0
+298,map05223,Non-small cell lung cancer,1.0
+299,map05030,Cocaine addiction,1.0
+300,map05143,African trypanosomiasis,1.0
+303,map04360,Axon guidance,1.0
+304,map04970,Salivary secretion,1.0
+305,map00790,Folate biosynthesis,1.0
+308,map04012,ErbB signaling pathway,1.0
+309,map05014,Amyotrophic lateral sclerosis (ALS),1.0
+310,map04614,Renin-angiotensin system,1.0
+291,map01522,Endocrine resistance,1.0
+311,map04923,Regulation of lipolysis in adipocytes,1.0
+314,map04664,Fc epsilon RI signaling pathway,1.0
+315,map04666,Fc gamma R-mediated phagocytosis,1.0
+316,map04650,Natural killer cell mediated cytotoxicity,1.0
+318,map04211,Longevity regulating pathway,1.0
+319,map03030,DNA replication,1.0
+320,map00220,Arginine biosynthesis,1.0
+322,map04136,Autophagy - other,1.0
+325,map00051,Fructose and mannose metabolism,1.0
+327,map05145,Toxoplasmosis,1.0
+328,map05226,Gastric cancer,1.0
+331,map00524,"Neomycin, kanamycin and gentamicin biosynthesis",1.0
+332,map04721,Synaptic vesicle cycle,1.0
+333,map04725,Cholinergic synapse,1.0
+312,map05134,Legionellosis,1.0
+289,map04015,Rap1 signaling pathway,1.0
+285,map01524,Platinum drug resistance,1.0
+283,map00040,Pentose and glucuronate interconversions,1.0
+244,map05016,Huntington disease,1.0
+246,map04115,p53 signaling pathway,1.0
+247,map00730,Thiamine metabolism,1.0
+249,map05032,Morphine addiction,1.0
+251,map03440,Homologous recombination,1.0
+252,map00532,Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate,1.0
+254,map05100,Bacterial invasion of epithelial cells,1.0
+255,map05216,Thyroid cancer,1.0
+256,map00900,Terpenoid backbone biosynthesis,1.0
+257,map04218,Cellular senescence,1.0
+260,map03020,RNA polymerase,1.0
+194,map02010,ABC transporters,1.0
+263,map03460,Fanconi anemia pathway,1.0
+264,map00350,Tyrosine metabolism,1.0
+266,map05144,Malaria,1.0
+267,map04926,Relaxin signaling pathway,1.0
+268,map04972,Pancreatic secretion,1.0
+269,map00030,Pentose phosphate pathway,1.0
+270,map05131,Shigellosis,1.0
+271,map05212,Pancreatic cancer,1.0
+272,map04620,Toll-like receptor signaling pathway,1.0
+273,map05332,Graft-versus-host disease,1.0
+274,map03022,Basal transcription factors,1.0
+275,map04061,Viral protein interaction with cytokine and cytokine receptor,1.0
+276,map03060,Protein export,1.0
+277,map04728,Dopaminergic synapse,1.0
+279,map04935,"Growth hormone synthesis, secretion and action",1.0
+281,map05235,PD-L1 expression and PD-1 checkpoint pathway in cancer,1.0
+282,map04672,Intestinal immune network for IgA production,1.0
+241,map05323,Rheumatoid arthritis,1.0
+193,map00565,Ether lipid metabolism,1.0
+168,map04020,Calcium signaling pathway,1.0
+191,map04068,FoxO signaling pathway,1.0
+63,map05033,Nicotine addiction,1.0
+61,map04710,Circadian rhythm,1.0
+60,map05211,Renal cell carcinoma,1.0
+59,map04660,T cell receptor signaling pathway,1.0
+58,map04621,NOD-like receptor signaling pathway,1.0
+57,map04929,GnRH secretion,1.0
+64,map05120,Epithelial cell signaling in Helicobacter pylori infection,1.0
+56,map04722,Neurotrophin signaling pathway,1.0
+53,map05205,Proteoglycans in cancer,1.0
+52,map00260,"Glycine, serine and threonine metabolism",1.0
+51,map04933,AGE-RAGE signaling pathway in diabetic complications,1.0
+50,map00061,Fatty acid biosynthesis,1.0
+49,map04971,Gastric acid secretion,1.0
+48,map04927,Cortisol synthesis and secretion,1.0
+54,map04913,Ovarian steroidogenesis,1.0
+47,map01523,Antifolate resistance,1.0
+65,map05012,Parkinson disease,1.0
+69,map04940,Type I diabetes mellitus,1.0
+89,map05166,Human T-cell leukemia virus 1 infection,1.0
+86,map04145,Phagosome,1.0
+84,map04630,JAK-STAT signaling pathway,1.0
+83,map04740,Olfactory transduction,1.0
+82,map04724,Glutamatergic synapse,1.0
+81,map00471,D-Glutamine and D-glutamate metabolism,1.0
+68,map04912,GnRH signaling pathway,1.0
+80,map05218,Melanoma,1.0
+77,map04925,Aldosterone synthesis and secretion,1.0
+76,map05220,Chronic myeloid leukemia,1.0
+74,map05034,Alcoholism,1.0
+73,map00130,Ubiquinone and other terpenoid-quinone biosynthesis,1.0
+72,map04974,Protein digestion and absorption,1.0
+70,map04964,Proximal tubule bicarbonate reclamation,1.0
+79,map05215,Prostate cancer,1.0
+91,map04750,Inflammatory mediator regulation of TRP channels,1.0
+46,map05133,Pertussis,1.0
+44,map05416,Viral myocarditis,1.0
+21,map00512,Mucin type O-glycan biosynthesis,1.0
+18,map04137,Mitophagy - animal,1.0
+17,map04623,Cytosolic DNA-sensing pathway,1.0
+16,map04668,TNF signaling pathway,1.0
+14,map03430,Mismatch repair,1.0
+13,map00564,Glycerophospholipid metabolism,1.0
+22,map00400,"Phenylalanine, tyrosine and tryptophan biosynthesis",1.0
+12,map04080,Neuroactive ligand-receptor interaction,1.0
+9,map04658,Th1 and Th2 cell differentiation,1.0
+8,map00650,Butanoate metabolism,1.0
+6,map00360,Phenylalanine metabolism,1.0
+5,map05202,Transcriptional misregulation in cancer,1.0
+2,map00480,Glutathione metabolism,1.0
+1,map04928,"Parathyroid hormone synthesis, secretion and action",1.0
+11,map03420,Nucleotide excision repair,1.0
+45,map04213,Longevity regulating pathway - multiple species,1.0
+23,map04911,Insulin secretion,1.0
+25,map00534,Glycosaminoglycan biosynthesis - heparan sulfate / heparin,1.0
+43,map04730,Long-term depression,1.0
+42,map04657,IL-17 signaling pathway,1.0
+41,map00250,"Alanine, aspartate and glutamate metabolism",1.0
+39,map04742,Taste transduction,1.0
+38,map04260,Cardiac muscle contraction,1.0
+37,map00920,Sulfur metabolism,1.0
+24,map04961,Endocrine and other factor-regulated calcium reabsorption,1.0
+36,map04392,Hippo signaling pathway - multiple species,1.0
+34,map00072,Synthesis and degradation of ketone bodies,1.0
+33,map04713,Circadian entrainment,1.0
+32,map04919,Thyroid hormone signaling pathway,1.0
+29,map03410,Base excision repair,1.0
+28,map04140,Autophagy - animal,1.0
+26,map00514,Other types of O-glycan biosynthesis,1.0
+35,map05222,Small cell lung cancer,1.0
+92,map00515,Mannose type O-glycan biosynthesis,1.0
+93,map04726,Serotonergic synapse,1.0
+94,map05330,Allograft rejection,1.0
+169,map05204,Chemical carcinogenesis,1.0
+335,map04659,Th17 cell differentiation,1.0
+166,map00450,Selenocompound metabolism,1.0
+163,map04625,C-type lectin receptor signaling pathway,1.0
+162,map04130,SNARE interactions in vesicular transport,1.0
+161,map04014,Ras signaling pathway,1.0
+170,map04916,Melanogenesis,1.0
+160,map04064,NF-kappa B signaling pathway,1.0
+156,map05412,Arrhythmogenic right ventricular cardiomyopathy (ARVC),1.0
+154,map04550,Signaling pathways regulating pluripotency of stem cells,1.0
+152,map00980,Metabolism of xenobiotics by cytochrome P450,1.0
+151,map04612,Antigen processing and presentation,1.0
+149,map04071,Sphingolipid signaling pathway,1.0
+148,map04962,Vasopressin-regulated water reabsorption,1.0
+158,map05221,Acute myeloid leukemia,1.0
+144,map04662,B cell receptor signaling pathway,1.0
+171,map05162,Measles,1.0
+173,map00533,Glycosaminoglycan biosynthesis - keratan sulfate,1.0
+190,map05110,Vibrio cholerae infection,1.0
+189,map04060,Cytokine-cytokine receptor interaction,1.0
+187,map05410,Hypertrophic cardiomyopathy (HCM),1.0
+185,map05169,Epstein-Barr virus infection,1.0
+184,map04530,Tight junction,1.0
+183,map04310,Wnt signaling pathway,1.0
+172,map04914,Progesterone-mediated oocyte maturation,1.0
+182,map04261,Adrenergic signaling in cardiomyocytes,1.0
+180,map05414,Dilated cardiomyopathy (DCM),1.0
+179,map03015,mRNA surveillance pathway,1.0
+178,map04810,Regulation of actin cytoskeleton,1.0
+177,map04380,Osteoclast differentiation,1.0
+176,map00983,Drug metabolism - other enzymes,1.0
+175,map01521,EGFR tyrosine kinase inhibitor resistance,1.0
+181,map05321,Inflammatory bowel disease (IBD),1.0
+143,map05031,Amphetamine addiction,1.0
+142,map04340,Hedgehog signaling pathway,1.0
+141,map03008,Ribosome biogenesis in eukaryotes,1.0
+113,map04915,Estrogen signaling pathway,1.0
+112,map04510,Focal adhesion,1.0
+110,map04960,Aldosterone-regulated sodium reabsorption,1.0
+109,map05320,Autoimmune thyroid disease,1.0
+107,map04930,Type II diabetes mellitus,1.0
+105,map04062,Chemokine signaling pathway,1.0
+117,map00510,N-Glycan biosynthesis,1.0
+104,map05167,Kaposi sarcoma-associated herpesvirus infection,1.0
+102,map05020,Prion diseases,1.0
+101,map04024,cAMP signaling pathway,1.0
+100,map00062,Fatty acid elongation,1.0
+99,map04371,Apelin signaling pathway,1.0
+97,map04622,RIG-I-like receptor signaling pathway,1.0
+95,map05140,Leishmaniasis,1.0
+103,map04744,Phototransduction,1.0
+119,map04350,TGF-beta signaling pathway,1.0
+120,map04917,Prolactin signaling pathway,1.0
+121,map00970,Aminoacyl-tRNA biosynthesis,1.0
+138,map04215,Apoptosis - multiple species,1.0
+137,map04217,Necroptosis,1.0
+136,map05163,Human cytomegalovirus infection,1.0
+135,map04966,Collecting duct acid secretion,1.0
+134,map04921,Oxytocin signaling pathway,1.0
+132,map05219,Bladder cancer,1.0
+131,map04950,Maturity onset diabetes of the young,1.0
+130,map00780,Biotin metabolism,1.0
+129,map04611,Platelet activation,1.0
+128,map04010,MAPK signaling pathway,1.0
+127,map04720,Long-term potentiation,1.0
+126,map05224,Breast cancer,1.0
+125,map04270,Vascular smooth muscle contraction,1.0
+123,map00472,D-Arginine and D-ornithine metabolism,1.0
+122,map05217,Basal cell carcinoma,1.0
+192,map04514,Cell adhesion molecules (CAMs),1.0
+336,map04122,Sulfur relay system,1.0
